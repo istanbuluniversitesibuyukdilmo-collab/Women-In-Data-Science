@@ -1,29 +1,29 @@
 # Women-In-Data-Science 📊
 
-**Women-In-Data-Science** reposu, İstanbul Üniversitesi bünyesinde yürütülen “Büyük Dil Modelleri/Veri Bilimi” topluluğu için hazırlanmış ders, sunum ve notları derleyen bir koleksiyondur. Bu repo, veri bilimi konularında bilgi paylaşımı, öğrenme ve iş birliği amacıyla oluşturulmuştur.
+**Women-In-Data-Science** repomuz, İstanbul Üniversitesi bünyesinde yürütülen “Büyük Dil Modelleri / Veri Bilimi” topluluğu için hazırlanmış; ders notları, sunumlar ve kod örneklerini barındıran bir koleksiyondur. Amaç: veri bilimi alanına ilgi duyan öğrenciler ve topluluk üyeleri için ortak bir kaynak oluşturmak.  
 
 ---
 
-## 🧩 İçerik
+## 📚 Repo İçeriği
 
-- `Woman in Data Science.pdf` — Konuya genel giriş dokümanı  
-- `lecture1.ipynb` / `lecture1.pdf` — Ders sunumu / kod / notlar  
-- Ek ders notebook’ları ve materyaller (ilerleyen commit’lerde)  
+- `Woman in Data Science.pdf` — Genel tanıtım / giriş dokümanı  
+- `lecture1.ipynb` / `lecture1.pdf` — İlk dersin Jupyter Notebook ve PDF hâli  
+- (İlerleyen commit’lerle) ek ders notları, sunumlar, kodlar ve materyaller  
 
-> Reponun tamamı, topluluğumuzun kolektif çalışmaları sonucu oluşturulmuştur.
-
----
-
-## 🎯 Projenin Amacı
-
-- Veri bilimi ve büyük dil modelleri alanında bilgi birikimini artırmak  
-- Ders materyallerini, kod örneklerini ve sunumları düzenli bir koleksiyonda toplamak  
-- Katılımcı öğrenciler ve topluluk üyeleri için referans / kaynak görevi görmek  
+> Not: Reponun tamamı topluluk üyelerinin kolektif katkılarıyla oluşturulmuştur.
 
 ---
 
-## 🚀 Nasıl Kullanılır
+## 🎯 Projenin Amacı ve Hedefleri
 
-1. Bu repoyu klonlayın  
+- Veri bilimi / makine öğrenmesi / büyük dil modelleri konularında öğrenme ve paylaşım ortamı sağlamak.  
+- Ders materyallerini, sunumları, kod örneklerini merkezi bir yerde düzenli şekilde toplamak.  
+- Katılımcılar için referans / kaynak görevi görmek; topluluk içi bilgi paylaşımını kolaylaştırmak.  
+
+---
+
+## 🚀 Kullanım / Nasıl Başlanır
+
+1. Repoyu klonlayın:  
    ```bash
    git clone https://github.com/istanbuluniversitesibuyukdilmo-collab/Women-In-Data-Science.git
