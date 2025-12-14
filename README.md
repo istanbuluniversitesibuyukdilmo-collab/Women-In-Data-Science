@@ -4,19 +4,9 @@
 
 ---
 
-## 📚 Repo İçeriği
-
-- `Woman in Data Science.pdf` — Genel tanıtım / giriş dokümanı  
-- `lecture1.ipynb` / `lecture1.pdf` — İlk dersin Jupyter Notebook ve PDF hâli  
-- (İlerleyen commit’lerle) ek ders notları, sunumlar, kodlar ve materyaller  
-
-> Not: Reponun tamamı topluluk üyelerinin kolektif katkılarıyla oluşturulmuştur.
-
----
-
 ## 🎯 Projenin Amacı ve Hedefleri
 
-- Veri bilimi / makine öğrenmesi / büyük dil modelleri konularında öğrenme ve paylaşım ortamı sağlamak.  
+- Veri bilimi / makine öğrenmesi konularında öğrenme ve paylaşım ortamı sağlamak.  
 - Ders materyallerini, sunumları, kod örneklerini merkezi bir yerde düzenli şekilde toplamak.  
 - Katılımcılar için referans / kaynak görevi görmek; topluluk içi bilgi paylaşımını kolaylaştırmak.  
 
